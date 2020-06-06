@@ -29,3 +29,7 @@ Make sure to place trained model naming as vgg16_FC_Only.pth in the image direct
 ## Link to Android App Repository
 
 https://github.com/ferozkhandev/Corona_Detection_Android_App
+
+## Link to trained model
+
+https://drive.google.com/file/d/1_D0BAWI1U38syrVFY9CYp9V1us7vEum9/view?usp=sharing
